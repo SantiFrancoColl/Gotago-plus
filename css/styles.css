@@ -506,7 +506,7 @@ nav ul li a:hover{
     position: absolute;
     color: #1f0441;
     top: 8%;
-    font-size: 65pt;
+    font-size: 85pt;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bolder;
     text-transform: uppercase;
@@ -518,7 +518,7 @@ nav ul li a:hover{
     color: #1f0441;
     width: 70%;
     top: 28%;
-    font-size: 12pt;
+    font-size: 18pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 
@@ -687,7 +687,7 @@ nav ul li a:hover{
 .cambio{
     position: absolute;
     color: #1f0441;
-    font-size: 50pt;
+    font-size: 60pt;
     left: 40%;
     top: 5%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -1842,7 +1842,7 @@ div#imagen16:hover p#descripcion16 {
 
 #fechacont {
 	position: fixed;
-	font-size: 15pt;
+	font-size: 25pt;
 	text-transform: uppercase;
 	letter-spacing: normal;
 	color: rgb(22, 21, 22);
