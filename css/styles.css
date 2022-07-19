@@ -2250,8 +2250,8 @@ div#imagen16:hover p#descripcion16 {
     height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/remnn3.png");
-    margin-top: 380px;
-    margin-left: 30%;
+    margin-top: 60%;
+    margin-left: 20%;
     transition-property: all;
     transition-duration: 0.4s;
 }
@@ -2270,7 +2270,7 @@ div#imagen16:hover p#descripcion16 {
     height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/c.png");
-    margin-top: 280px;
+    margin-top: 60%;
     margin-left: 60%;
     transition-property: all;
     transition-duration: 0.4s;
