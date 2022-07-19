@@ -827,7 +827,7 @@ nav ul li a:hover{
 
 .dia1letras{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 40pt;
+    font-size: 55pt;
     color: #FCAB10;
     font-weight: bolder;
     text-transform: uppercase;
@@ -885,6 +885,8 @@ div#imagen {
     position: absolute;
     width: 300px;
     height: 200px;
+    left: 22%;
+    top: 20%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/dualipa.jpg");
     margin-top: 300px;
@@ -949,6 +951,8 @@ div#imagen2 {
     position: absolute;
     width: 300px;
     height: 200px;
+    left: 23% ;
+    top: 20%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/arianagrande.jpg");
     margin-top: 300px;
@@ -1008,6 +1012,8 @@ div#imagen3 {
     position: absolute;
     width: 300px;
     height: 200px;
+    left: 24%;
+    top: 20%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/olivia.jpg");
     margin-top: 300px;
@@ -1065,6 +1071,8 @@ div#imagen4 {
     position: absolute;
     width: 300px;
     height: 200px;
+    left: 25%;
+    top: 20%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/theweekend.jpg");
     margin-top: 300px;
@@ -1127,6 +1135,8 @@ div#imagen5 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 25%;
+    left: 22%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/maroon5.jpg");
     margin-top: 500px;
@@ -1186,6 +1196,8 @@ div#imagen6 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 25%;
+    left: 23%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/miranda.jpg");
     margin-top: 500px;
@@ -1243,6 +1255,8 @@ div#imagen7 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 25%;
+    left: 24%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/tiesto.jpg");
     margin-top: 500px;
@@ -1302,6 +1316,8 @@ div#imagen8 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 25%;
+    left: 25%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/tameimpala.jpg");
     margin-top: 500px;
@@ -1354,6 +1370,8 @@ div#imagen8:hover p#descripcion8 {
 div#imagen9 {
     position: absolute;
     width: 300px;
+    top: 60%;
+    left: 22%;
     height: 200px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/ritahora.jpg");
@@ -1412,6 +1430,8 @@ div#imagen10 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 60%;
+    left: 23%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/marshmallow.jpg");
     margin-top: 800px;
@@ -1468,6 +1488,8 @@ div#imagen11 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 65%;
+    left: 26%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/dojacat.jpg");
     margin-top: 1000px;
@@ -1526,6 +1548,8 @@ div#imagen12 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 60%;
+    left: 25%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/martincarrix.jpg");
     margin-top: 800px;
@@ -1582,6 +1606,8 @@ div#imagen13 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 60%;
+    left: 26%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/dukedumont.jpg");
     margin-top: 800px;
@@ -1638,6 +1664,8 @@ div#imagen14 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 65%;
+    left: 23%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/yearsandyears.jpg");
     margin-top: 1000px;
@@ -1694,6 +1722,8 @@ div#imagen15 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 65%;
+    left: 24%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/majorlazer.jpg");
     margin-top: 1000px;
@@ -1748,6 +1778,8 @@ div#imagen16 {
     position: absolute;
     width: 300px;
     height: 200px;
+    top: 65%;
+    left: 25%;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/carlin\ jarris.jpg");
     margin-top: 1000px;
@@ -1795,6 +1827,7 @@ p#descripcion16 {
 div#imagen16:hover p#descripcion16 {
     margin-top: 75px;
 }
+
 
 
 /* ? ----- Cuenta Regresiva ----- */
