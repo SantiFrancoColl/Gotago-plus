@@ -2042,7 +2042,7 @@ div#imagen16:hover p#descripcion16 {
 #cuadradoexperiecias{
   
     position: absolute;
-    top: 15%;
+    top: 30%;
     width: 100%;
     height: 40%;
     display: flex;
@@ -2057,7 +2057,7 @@ div#imagen16:hover p#descripcion16 {
 #cuadradoexperiecias2{
     
     position: absolute;
-    top: 4%;
+    top: 15%;
     width: 100%;
     display: flex;
     justify-content: center;
