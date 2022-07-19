@@ -1940,7 +1940,7 @@ div#imagen16:hover p#descripcion16 {
     right: 15%;
     left: 15%;
     top: 40%;
-    font-size: 12pt;
+    font-size: 20pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     color: #FCAB10;
@@ -1983,8 +1983,8 @@ div#imagen16:hover p#descripcion16 {
     position: absolute;
     right: 15%;
     left: 10%;
-    top: 55%;
-    font-size: 12pt;
+    top: 40%;
+    font-size: 20pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     color: #FCAB10;
@@ -2028,8 +2028,8 @@ div#imagen16:hover p#descripcion16 {
     position: absolute;
     right: 15%;
     left: 8%;
-    top: 50%;
-    font-size: 12pt;
+    top: 40%;
+    font-size: 18pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     color: #FCAB10;
@@ -2042,7 +2042,7 @@ div#imagen16:hover p#descripcion16 {
 #cuadradoexperiecias{
   
     position: absolute;
-    top: 5%;
+    top: 15%;
     width: 100%;
     height: 40%;
     display: flex;
@@ -2069,7 +2069,7 @@ div#imagen16:hover p#descripcion16 {
 #experienciatitulo{
     position: absolute;
     color: #1f0441;
-    font-size: 65pt;
+    font-size: 90pt;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bolder;
@@ -2080,7 +2080,7 @@ div#imagen16:hover p#descripcion16 {
 #sinopsisexperiencia{
     color: #1f0441;
     width: 70%;
-    font-size: 18pt;
+    font-size: 20pt;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
    
 
