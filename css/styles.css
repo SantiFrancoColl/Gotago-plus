@@ -318,11 +318,11 @@ nav ul li a:hover{
 
 }
 #mapa{position: absolute;
-    top: 110%;
-    left: 13%;
+    top: 120%;
+    left: 8%;
     z-index: 1000;
-    height:80%;
-    width:70%;
+    height:90%;
+    width:80%;
 
 
 }
