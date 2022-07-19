@@ -688,8 +688,8 @@ nav ul li a:hover{
     position: absolute;
     color: #1f0441;
     font-size: 50pt;
-    left: 23%;
-    top: -5%;
+    left: 40%;
+    top: 5%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
     text-align: center;
@@ -706,8 +706,8 @@ nav ul li a:hover{
     width: 20%;
     height: 20%;    
     border-radius: 15px;
-    top: 50%;
-    left: 20%;
+    top: 46%;
+    left: 40%;
     transition-property: all;  
     transition-duration: 0.3s;  
 }
@@ -721,9 +721,9 @@ nav ul li a:hover{
     position: absolute;
     z-index: 89100;
     text-decoration: none;
-    font-size: 25pt;
-    left: 15%;
-    top: 20%;
+    font-size: 35pt;
+    left: 20%;
+    top: 25%;
     text-transform: uppercase;
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
