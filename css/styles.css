@@ -2250,8 +2250,8 @@ div#imagen16:hover p#descripcion16 {
     height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/remnn3.png");
-    margin-top: 280px;
-    margin-left: 20%;
+    margin-top: 380px;
+    margin-left: 30%;
     transition-property: all;
     transition-duration: 0.4s;
 }
@@ -2266,8 +2266,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen1 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/c.png");
     margin-top: 280px;
@@ -2286,8 +2286,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen2 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/g.png");
     margin-top: 50%;
@@ -2306,8 +2306,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen3 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/j.png");
     margin-top: 50%;
@@ -2328,8 +2328,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen4 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/bblanco3.png");
     margin-top: 100%;
@@ -2351,8 +2351,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen5 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/bblanco6.png");
     margin-top: 100%;
@@ -2373,8 +2373,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen6 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/bolsarosa.png");
     margin-top: 145%;
@@ -2395,8 +2395,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen7 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/bolsaverde.png");
     margin-top: 145%;
@@ -2416,8 +2416,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen8 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/botamarilla.png");
     margin-top: 200%;
@@ -2438,8 +2438,8 @@ div#imagen16:hover p#descripcion16 {
 
 #merchimagen9 {
     position: absolute;
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     background-size: cover;/*sólo para ejemplo*/
     background-image: url("/img/botverde.png");
     margin-top: 200%;
