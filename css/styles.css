@@ -1828,13 +1828,13 @@ div#imagen16:hover p#descripcion16 {
 
 .simply-amount {
 	display: block;
-	font-size: 25pt;
+	font-size: 30pt;
 	color: rgb(255, 255, 255);
 
 }
 
 .simply-word {
-	font-size: 15pt;
+	font-size: 20pt;
 	letter-spacing: normal;
 	color: rgb(255, 255, 255);
 
@@ -1879,7 +1879,7 @@ div#imagen16:hover p#descripcion16 {
     position: absolute;
     z-index: 3100;
     text-decoration: none;
-    font-size: 20pt;
+    font-size: 30pt;
     color: #1f0441;
     text-transform: uppercase;
     z-index: 9000;  
