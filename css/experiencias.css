@@ -3,7 +3,7 @@
 
 footer{
 	position: absolute;
-	top: 180%;
+	top: 216%;
     width: 100%;
     padding: 40px 0px;
     background-image: url(../img/background-footer.svg);
@@ -18,7 +18,7 @@ footer{
     justify-content: space-between;
     max-width: 1200px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 70px;
 
 }
 
